@@ -6,4 +6,4 @@ The experimental results indicate that the key factor affecting the keyword hit 
 # [Code](https://github.com/paul0728/110-2-NTU-CSIE-ADL/tree/main/ADL-Final/team_5)
 # [Report](report/最終繳交的報告_影片/終版_2022%20Applied%20Deep%20Learning%20Final%20Project%20(Team5).pdf)
 # [Report video](report/最終繳交的報告_影片/ADL報告影片.zip)
-# [Slide](最終簡報.pptx)
+# [Slide](report/最終繳交的報告_影片/最終簡報.pptx)
